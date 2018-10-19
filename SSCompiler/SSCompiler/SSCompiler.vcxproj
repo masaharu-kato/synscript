@@ -115,6 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="parse.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test01.in.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test01.out.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

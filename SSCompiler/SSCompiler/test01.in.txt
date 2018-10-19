@@ -1,0 +1,205 @@
+x
+y
+z
+abc
+xyz
+hogehoge
+fuga05454
+sync5260004
+age_fd
+_egwf_fg345
+a3
+b20950
+2x
+6.63xh5
+_3
+_
+____
+___________________________________
+_________________________value___
+_____v_a_r_i_a_bbble_
+fef.g6cc
+fejh.582b.c
+65ccf.035v.353242
+g.e.bve.hg4.6
+0.536.fgf.b32ty
+0
+1
+2
+3
+16734
+1000046
+498
+3.1416
+6546.0000
+27182.8182846
+0.64975098765
+0.0043566
+0.0000000000644
+31.4142
+-5
+-24
+-367
+-3.1416
+-6546.0000
+-27182.8182846
+-0.64975098765
+-0.000657787
+-0.00000000500024
+-31.4142
++5
++24
++367
++3.1416
++6546.0000
++27182.8182846
++0.64975098765
++0.0019605
++0.000000000000001
++1.4142
+()
+( )
+(     )
+(x)
+( x)
+(x )
+( x )
+(   x     )
+(qynb)
+(x, y)
+(x,     y)
+( x,y)
+(x,y)
+(   x  , y)
+( x , y )
+(a, b, c, d)
+(a,b,c,d)
+(a,   b,c       ,d )
+f()
+f ()
+f        ()
+f      (              )
+f(x)
+f   ( x)
+f( x )
+f   (X)
+f(X)
+f(X  )
+F  ()
+F         ()
+F()
+F      (            )
+F(x)
+F  (   x)
+F(      x )
+F(X     )
+F(X)
+F(   X)
+    a(ge)
+      g(bs)       
+ feffg(bca)
+    a( ge)
+      g(bs  )       
+ feffg( bca    )
++()
++(x, y)
+-()
+-(x)
+func()
+qncxc()
+bd9v0sdo()
+bd9v0sdo   ()
+vsdfawefawefae(abdfvd)
+vsdfawefawefae(voxp)
+cvxboxdvpoko64(sdfjsfawef, fgvaegaerferg)
+fudce63(sizex, sizey, sizez)
+bjxhfbx4(a, b, c, d)
+box(bx, by, bz, ex, ey, ez)
+box (bx,by,bz,ex,ey,ez)
+bkeoer451(ffff); oho(bsfg)
+bkeoer451(-54365); oho(0.004346)
+aksdi4(arg611); gtrgser(p3t, abdx)
+blfcof9(arg711, fb, arg713); boi9c(b)
+lxorpg(pb05, rfeg, b165); f9nbidf(fef, nnnfg)
+lxorpg(pb05,rfeg,b165);f9nbidf(fef,nnnfg)
+boc9f(bpd, eaf); n92krv(t1, t2, t3, t4)
+fawegsrt(b5, nx, obo); ndfh(b); gtrgser(bod, npx, a40n)
+fawegsrt(b5, nx, obo); ndfh(b); gtrgser(bod, npx, a40n); ()
+func1(435.0, null, 131); ndfh(bxc456); gtrgser(_vxfe, 156, 0.53645); (5, 3145, b)
+(); (); (); ()
+(a1,a2,a3); (); (b1, b2, b3, b4, b5); (c1, c2,  c3 ,  c4     ,c5); ()
+qwe19(rty283, uio4754, pas10536, dfgffagfe34432)
+qwe19(rty283,	uio4754,	pas10536,	dfgffagfe34432)
+qwe19	(rty283, uio4754,	pas10536,	dfgffagfe34432)
+qwe19	 (rty283,		uio4754,	pas10536,			dfgffagfe34432	)
+qwe19 (rty283,	uio4754,	pas10536,	dfgffagfe34432)
+qwe19	(rty283, uio4754	,pas10536,	dfgffagfe34432)
+qwe19	 (rty283					        	,	uio4754,	pas10536,		dfgffagfe34432	)
+qWe19(rty283, uio4754, Pas10536, dfgffagfe34432)
+qwE19(rty283,	uio4754,	pAs10536,	dfgffagfe34432)
+Qwe19	(rty283, uio4754,	paS10536,	dfgffagfe34432)
+QWE19	 (rty283,		UIO,	pas10536,			dfgffagfe34432	)
+eFX19 (rty283,	uio4754,	pas10536,	dfgffagfe34432)
+vx19e	(rty283, uio4754	,pas10536,	dfgffagfe34432)
+bxXXxx25(rty283					        	,	uio4754,	pas10536,		dfFFFfe34432	)
+(())
+((()))
+((((((((()))))))))
+((              ))
+(((((                              )))))
+(   (              )                         )
+(  ( (       ((                              )   )) )             )
+((), ())
+((  )   , (  )    )
+((),(),())
+(((), ()), ())
+(  (((()))),  (()), ((), (), ((()))), (((), ()), ())       )
+((x, y, z), (a, b, c, d(f(r, th))))
+25()
++546.054(3424)
+f(f())
+func(hoge())
+func( hoge() )
+func( hoge () )
+func ( hoge ())
+func ( hoge() )
+func(hoge(haha()))
+func(hoge(haha()), ahe(fuhe()), ())
+fawegsrt(b5, nx, obo()); ndfh(b); gtrgser(bod, npx, a40n)
+fawegsrt(b5, nx(), obo(a1, rf, func(test))); ndfh(b); gtrgser(bod, npx, a40n, (ef, fu(he)))
+call(q, w, e, r, Tf, y, u, i, O, S, p, @, a, s, d, f, g, h, j, kdfsg, l, z, x, c, v, bafd, n, m, /, ef1, 2.6464, 3.14159265359, 4096, 5, 6436, 7, 80646, 9, 35064, -, ^, =, ~, !, #, $, %, &, +, *, <, >, ?, _)
+()()
+()  ()
+()     ()
+()             ()
+()  ()
+()     ()
+(   )(  )
+(   )  (  )
+(   )     ()
+(          )             (  )
+(  )  (  )
+(   )     (                 )
+()()()
+()   ()     ()
+()()   ()
+()    ()()
+()()()()
+()()()()()()()()()()()()()()()()()()()
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+()		()(10)()()((), x(), y) ()()()(   )()()()		()() ()()        ()(()())
+aefa()vf()
+bcc()  fe()
+bcc()     bbv()
+f()             ()
+g()  ()
+bz()     ()
+ddf(   )(  )
+nc(   )  (  )
+() bfeg()
+xrg(   )     feawf()
+hxv()3x()456()
+hxv    () 3x    () 456     ()
+getFunc(getX(), getY(), getZ())(Arg1, getArg2(), getArg3(param1, param2))
+a()b()c()d()e()f()g()h()i()
+a(1, 2)b(34,   5)c(678, 9024)    d(unknown,    755)e(43610, 2552)     (   )f(g(hex(1457		,  e45f)))g(f(4316, 324, 6.0, -534.0))h(i(())((          )((     ))  ) )  ife(      45)
