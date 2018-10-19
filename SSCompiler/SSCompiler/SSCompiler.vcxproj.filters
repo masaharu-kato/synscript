@@ -9,6 +9,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
     <ClCompile Include="parse.cpp">
       <Filter>Sources</Filter>
     </ClCompile>
@@ -19,7 +25,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="test01.out.txt">
+    <ClInclude Include="test.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="parse.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test01.ans.txt">
       <Filter>Tests</Filter>
     </Text>
   </ItemGroup>
